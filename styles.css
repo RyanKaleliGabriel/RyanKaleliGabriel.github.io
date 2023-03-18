@@ -72,6 +72,7 @@ body {
 	font-size: clamp(3rem, 5vw, 5rem);
 	color: var(--title-color);
     margin-left: 35px;
+    margin-right: 35px;
 }
 .card__subtitle {
 	font-size: 1.4rem;
@@ -80,10 +81,12 @@ body {
 	margin-bottom: 2.5rem;
     margin-left: 35px;
     margin-top: 2.5rem;
+    margin-right: 35px;
 }
 p{
     margin-left: 35px;
     margin-bottom: 20px;
+    margin-right: 35px;
 }
 .card__body p:not(:last-child) {
 	margin-bottom: 1.5rem;
@@ -97,6 +100,8 @@ p{
 	margin-top: 2.5rem;
 	border: 2px solid var(--body-color);
     margin-left: 35px;
+    
+
 }
 .card__button span {
 	display: inline-block;
